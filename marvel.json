@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Deadpool",
-        "color": "#770609",
+        "color": "0xFF770609",
         "quote": "Please don't make the super suit green...or animated!",
         "poster": "https://user-images.githubusercontent.com/24237865/77316284-0a189700-6d01-11ea-9667-096b89a9b958.jpg",
         "details": [
@@ -25,7 +25,7 @@
     {
         "id": 1,
         "name": "Iron Man",
-        "color": "#99181B",
+        "color": "0xFF99181B",
         "quote": "I AM IRON MAN",
         "poster": "https://user-images.githubusercontent.com/24237865/77314104-f0755080-6cfc-11ea-9560-9efdb26033dc.jpg",
         "details": [
@@ -76,7 +76,7 @@
     {
         "id": 2,
         "name": "Captain America",
-        "color": "#3F51B5",
+        "color": "0xFF3F51B5",
         "quote": "Doesn't matter what the press says",
         "poster": "https://user-images.githubusercontent.com/24237865/77314112-f23f1400-6cfc-11ea-92d8-9c1da11a5be5.jpg",
         "details": [
@@ -120,7 +120,7 @@
     {
         "id": 3,
         "name": "Spiderman",
-        "color": "#99181B",
+        "color": "0xFF99181B",
         "quote": "Coming from your friendly neighborhood Spider-Man!",
         "poster": "https://user-images.githubusercontent.com/24237865/77314084-eb180600-6cfc-11ea-89d5-65b673f0a391.jpg",
         "details": [
@@ -164,7 +164,7 @@
     {
         "id": 4,
         "name": "Doctor Strange",
-        "color": "#087C53",
+        "color": "0xFF087C53",
         "quote": "No one ever is. We don't get to choose our time",
         "poster": "https://user-images.githubusercontent.com/24237865/77314089-ece1c980-6cfc-11ea-9880-b66c05eecbe8.jpg",
         "details": [
@@ -194,7 +194,7 @@
     {
         "id": 5,
         "name": "Thor",
-        "color": "#0D85BC",
+        "color": "0xFF0D85BC",
         "quote": "I'm only alive because fate wants me alive",
         "poster": "https://user-images.githubusercontent.com/24237865/77314094-eeab8d00-6cfc-11ea-8c33-e0ec914c0895.jpg",
         "details": [
@@ -238,7 +238,7 @@
     {
         "id": 6,
         "name": "Thanos",
-        "color": "#6E13C8",
+        "color": "0xFF6E13C8",
         "quote": "Fun isn't something one considers when balancing the universe",
         "poster": "https://user-images.githubusercontent.com/24237865/77314098-ef442380-6cfc-11ea-8d20-47ef7ebf649a.jpg",
         "details": [
