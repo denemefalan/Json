@@ -338,7 +338,22 @@
         "color": "0xFF00FFFF",
         "quote": "No more mutants!",
         "poster": "",
-        "details": []
+        "details": [
+            {
+                "id": 36,
+                "rootId": 9,
+                "name": "Deadpool",
+                "plot": "Wade Wilson is a dishonorably discharged special forces operative working as a mercenary when he meets Vanessa, a prostitute. They become romantically involved, and a year later she accepts his marriage proposal. Wilson is diagnosed with terminal cancer, and leaves Vanessa without warning so she will not have to watch him die.",
+                "poster": "https://user-images.githubusercontent.com/24237865/77326438-bb272d80-6d11-11ea-8f57-5a2d9e3e6d54.jpg"
+            },
+            {
+                "id": 37,
+                "rootId": 9,
+                "name": "Deadpool 2",
+                "plot": "After fighting organized crime as the mercenary Deadpool for two years, Wade Wilson fails to kill one of his targets on his anniversary with Vanessa, his girlfriend. That night, after the pair decides to start a family together, the target tracks Wilson down and inadvertently kills Vanessa.",
+                "poster": "https://user-images.githubusercontent.com/24237865/77326451-bebab480-6d11-11ea-96ae-e013d8252cae.jpg"
+            }
+        ]
     },
     {
         "id": 10,
@@ -347,7 +362,13 @@
         "quote": "I'm Hawkeye. Avenge me!",
         "poster": "",
         "details": [
-
+            {
+                "id": 38,
+                "rootId": 10,
+                "name": "Deadpool",
+                "plot": "Wade Wilson is a dishonorably discharged special forces operative working as a mercenary when he meets Vanessa, a prostitute. They become romantically involved, and a year later she accepts his marriage proposal. Wilson is diagnosed with terminal cancer, and leaves Vanessa without warning so she will not have to watch him die.",
+                "poster": "https://user-images.githubusercontent.com/24237865/77326438-bb272d80-6d11-11ea-8f57-5a2d9e3e6d54.jpg"
+            }
         ]
     },
     {
@@ -357,7 +378,13 @@
         "quote": "I'm not a monster. I'm just ahead of the curve.",
         "poster": "",
         "details": [
-            
+            {
+                "id": 39,
+                "rootId": 11,
+                "name": "Deadpool",
+                "plot": "Wade Wilson is a dishonorably discharged special forces operative working as a mercenary when he meets Vanessa, a prostitute. They become romantically involved, and a year later she accepts his marriage proposal. Wilson is diagnosed with terminal cancer, and leaves Vanessa without warning so she will not have to watch him die.",
+                "poster": "https://user-images.githubusercontent.com/24237865/77326438-bb272d80-6d11-11ea-8f57-5a2d9e3e6d54.jpg"
+            }
         ]
     }
 ]
