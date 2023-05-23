@@ -1,0 +1,162 @@
+[
+    {
+      "id": 0,
+      "name": "Frozen II",
+      "release": "2019",
+      "playtime": "1 h 43 min",
+      "description": "Frozen II, also known as Frozen 2, is a 2019 American 3D computer-animated musical fantasy film produced by Walt Disney Animation Studios. The 58th animated film produced by the studio, it is the sequel to the 2013 film Frozen and features the return of directors Chris Buck and Jennifer Lee, producer Peter Del Vecho, songwriters Kristen Anderson-Lopez and Robert Lopez, and composer Christophe Beck. Lee also returns as screenwriter, penning the screenplay from a story by her, Buck, Marc E. Smith, Anderson-Lopez, and Lopez,[2] while Byron Howard executive-produced the film.[a][1] Veteran voice cast Kristen Bell, Idina Menzel, Josh Gad, Jonathan Groff, and Ciarán Hinds return as their previous characters, and they are joined by newcomers Sterling K. Brown, Evan Rachel Wood, Alfred Molina, Martha Plimpton, Jason Ritter, Rachel Matthews, and Jeremy Sisto.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/frozen2.jpeg"
+    },
+    {
+      "id": 1,
+      "name": "Toy Story 4",
+      "release": "2019",
+      "playtime": "1 h 40 min",
+      "description": "Toy Story 4 is a 2019 American computer-animated comedy film produced by Pixar Animation Studios for Walt Disney Pictures. It is the fourth installment in Pixar's Toy Story series and the sequel to Toy Story 3 (2010). It was directed by Josh Cooley (in his feature directorial debut) from a screenplay by Andrew Stanton and Stephany Folsom; the three also conceived the story alongside John Lasseter, Rashida Jones, Will McCormack, Valerie LaPointe, and Martin Hynes.[2] Tom Hanks, Tim Allen, Annie Potts, Joan Cusack, Wallace Shawn, John Ratzenberger, Estelle Harris, Blake Clark, Bonnie Hunt, Jeff Garlin, Kristen Schaal and Timothy Dalton reprise their character roles from the first three films. They are joined by Tony Hale, Keegan-Michael Key, Jordan Peele, Christina Hendricks, Keanu Reeves, and Ally Maki, who voice the new characters. The film also posthumously features Don Rickles, who appears through use of archived voice recordings.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/toystory.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Zootopia",
+      "release": "2016",
+      "playtime": "1 h 50 min",
+      "description": "Zootopia (titled Zootropolis in the UK and Ireland)[6] is a 2016 American 3D computer-animated comedy film[7] produced by Walt Disney Animation Studios and released by Walt Disney Pictures. It is the 55th Disney animated feature film, directed by Byron Howard and Rich Moore, co-directed by Jared Bush, and stars the voices of Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate, Nate Torrence, Bonnie Hunt, Don Lake, Tommy Chong, J. K. Simmons, Octavia Spencer, Alan Tudyk, and Shakira. It details the unlikely partnership between a rabbit police officer and a red fox con artist, as they uncover a criminal conspiracy involving the disappearance of predators.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/zootopia.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bambi",
+      "release": "1942",
+      "playtime": "1 h 10 min",
+      "description": "Bambi is a 1942 American animated film directed by David Hand (supervising a team of sequence directors), produced by Walt Disney and based on the 1923 book Bambi, a Life in the Woods by Austrian author Felix Salten. The film was released by RKO Radio Pictures on August 13, 1942, and is the fifth Disney animated feature film.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/bambi.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Coco",
+      "release": "2017",
+      "playtime": "1 h 49 min",
+      "description": "Coco is a 2017 American 3D computer-animated fantasy film produced by Pixar Animation Studios and released by Walt Disney Pictures. Based on an original idea by Lee Unkrich, it is directed by him and co-directed by Adrian Molina. The film's voice cast stars Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach, Renée Victor, Ana Ofelia Murguía and Edward James Olmos. The story follows a 12-year-old boy named Miguel who is accidentally transported to the Land of the Dead, where he seeks the help of his deceased musician great-great-grandfather to return him to his family among the living and to reverse his family's ban on music.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/coco.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "The Lion King",
+      "release": "2019",
+      "playtime": "1 h 58 min",
+      "description": "The Lion King is a 2019 American animated musical film directed and produced by Jon Favreau, written by Jeff Nathanson, and produced by Walt Disney Pictures. It is a photorealistic computer-animated remake of Disney's traditionally animated 1994 film of the same name. The film stars the voices of Donald Glover, Seth Rogen, Chiwetel Ejiofor, Alfre Woodard, Billy Eichner, John Kani, John Oliver, Florence Kasumba, Eric Andre, Keegan-Michael Key, JD McCrary, Shahadi Wright Joseph, and Beyoncé Knowles-Carter, as well as James Earl Jones reprising his role from the original film. The plot follows Simba, a young lion who must embrace his role as the rightful king of his native land following the murder of his father, Mufasa, at the hands of his uncle, Scar.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/thelionking.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Finding Dory",
+      "release": "2016",
+      "playtime": "1 h 45 min",
+      "description": "Finding Dory is a 2016 American 3D computer-animated adventure film produced by Pixar Animation Studios and released by Walt Disney Pictures. Directed by Andrew Stanton with co-direction by Angus MacLane,[5][6] the screenplay was written by Stanton and Victoria Strouse.[7] The film is a sequel/spinoff[8][9] to 2003's Finding Nemo and features the returning voices of Ellen DeGeneres and Albert Brooks, with Hayden Rolence (replacing Alexander Gould), Ed O'Neill, Kaitlin Olson, Ty Burrell, Diane Keaton, and Eugene Levy joining the cast. The film focuses on the amnesiac fish Dory, who journeys to be reunited with her parents.[10]",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/findingdory.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Alice Through the Looking Glass",
+      "release": "2016",
+      "playtime": "1 h 53 min",
+      "description": "Alice Through the Looking Glass is a 2016 American fantasy adventure film directed by James Bobin, written by Linda Woolverton and produced by Tim Burton, Joe Roth, Suzanne Todd, and Jennifer Todd. It is based on the characters created by Lewis Carroll and is the sequel to the 2010 film Alice in Wonderland, a live-action reimagining of Disney's 1951 animated film of the same name. The film stars Johnny Depp, Anne Hathaway, Mia Wasikowska, Matt Lucas, Rhys Ifans, Helena Bonham Carter, and Sacha Baron Cohen and features the voices of Stephen Fry, Michael Sheen, Timothy Spall, and Alan Rickman in his final film role.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/alice.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Moana",
+      "release": "2016",
+      "playtime": "1 h 47 min",
+      "description": "Moana is a 2016 American animated musical adventure film produced by Walt Disney Animation Studios. The film tells the story of Moana, a spirited teenager who sets sail on a daring mission to save her people. With the help of the demigod Maui, Moana embarks on an epic journey across the ocean, encountering mythical creatures and facing incredible challenges. Along the way, she discovers her own identity and learns the importance of following her heart. Moana features stunning animation, memorable songs, and a heartfelt story that resonates with audiences of all ages.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/moana.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Beauty and the Beast",
+      "release": "1991",
+      "playtime": "1 h 24 min",
+      "description": "Beauty and the Beast is a 1991 animated musical romantic fantasy film produced by Walt Disney Animation Studios. The film tells the enchanting tale of Belle, a young woman who finds herself falling in love with a prince cursed to live as a beast. As Belle gets to know the Beast and sees the kind heart within him, she begins to see beyond his appearance and discovers the true meaning of love and acceptance. With its captivating animation, memorable characters, and timeless story, Beauty and the Beast has become one of Disney's most beloved and iconic films.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/beautyandthebest.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "Big Hero 6",
+      "release": "2014",
+      "playtime": "1 h 42 min",
+      "description": "Big Hero 6 is a thrilling Disney animated film released in 2014. It tells the story of Hiro Hamada, a young prodigy who teams up with a group of friends and a lovable robot named Baymax to save the city of San Fransokyo from a dangerous villain. Filled with action, humor, and heart, Big Hero 6 is an exciting adventure that explores the power of friendship and the importance of embracing one's true potential.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/bighero6.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Tangled",
+      "release": "2010",
+      "playtime": "1 h 40 min",
+      "description": "Tangled is a delightful Disney animated film released in 2010. It tells the story of Rapunzel, a young princess with long magical hair who is held captive in a tower by the wicked Mother Gothel. When a charming thief named Flynn Rider stumbles upon her tower, Rapunzel seizes the opportunity to embark on an adventurous journey to discover the world outside and fulfill her dreams. With its charming characters, beautiful animation, and catchy songs, Tangled is a heartwarming tale of love, friendship, and self-discovery.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/tangled.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mulan",
+      "release": "1998",
+      "playtime": "1 h 28 min",
+      "description": "Mulan is a beloved Disney animated film released in 1998. Set in ancient China, the film follows the courageous Mulan, a young woman who disguises herself as a man to take her father's place in the Imperial Army. With the help of her loyal friends, Mushu the dragon and Cri-Kee the cricket, Mulan must overcome challenges and prove her worth as a warrior. Mulan is a tale of bravery, honor, and the importance of staying true to oneself.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/mulan.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Aladdin",
+      "release": "1992",
+      "playtime": "1 h 31 min",
+      "description": "Aladdin is a beloved Disney animated film released in 1992. It tells the magical tale of a young street thief named Aladdin who discovers a magical lamp containing a genie. With the genie's help, Aladdin transforms himself into a prince to win the heart of Princess Jasmine and thwart the evil plans of the villainous Jafar. Aladdin is an enchanting adventure filled with memorable characters, catchy songs, and a heartwarming love story.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/aladdin.jpeg"
+    },
+    {
+      "id": 14,
+      "name": "Pocahontas",
+      "release": "1995",
+      "playtime": "1 h 21 min",
+      "description": "Pocahontas is a captivating Disney animated film released in 1995. Set in the early 17th century, the film tells the story of Pocahontas, a young Native American woman who becomes friends with a group of English settlers led by the dashing Captain John Smith. As their worlds collide, Pocahontas and John Smith must navigate cultural differences and strive for peace between their peoples. Pocahontas is a powerful tale of love, friendship, and the importance of respecting and preserving nature.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/pocahontas.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Sleeping Beauty",
+      "release": "1959",
+      "playtime": "1 h 15 min",
+      "description": "Sleeping Beauty is a classic Disney animated film released in 1959. Based on the timeless fairy tale, it tells the story of Princess Aurora, who is cursed by the evil Maleficent to fall into a deep sleep on her 16th birthday. Only true love's kiss can break the spell. With the help of the three good fairies, Flora, Fauna, and Merryweather, and the brave Prince Phillip, Aurora embarks on a journey to defeat Maleficent and find her true love. Sleeping Beauty is a beautiful and enchanting tale of love, magic, and the triumph of good over evil.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/sleepingbeauty.jpeg"
+    },
+    {
+      "id": 16,
+      "name": "Cinderella",
+      "release": "1950",
+      "playtime": "1 h 14 min",
+      "description": "Cinderella is a timeless Disney animated film released in 1950. It tells the classic fairy tale of a young woman named Cinderella who overcomes adversity and finds her happily ever after. With the help of her fairy godmother, Cinderella attends the royal ball and captures the heart of Prince Charming. Cinderella is a story of resilience, kindness, and the belief in the power of dreams.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/cindirella.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Frozen",
+      "release": "2013",
+      "playtime": "1 h 42 min",
+      "description": "Frozen is a highly popular Disney animated film released in 2013. It follows the story of two royal sisters, Elsa and Anna, in the kingdom of Arendelle. Elsa possesses magical powers that allow her to create ice and snow, but she struggles to control them. When Elsa accidentally plunges Arendelle into eternal winter, Anna sets off on a journey to find her sister and bring back summer. Frozen is a tale of love, self-acceptance, and the unbreakable bond between siblings, with memorable songs like 'Let It Go' capturing the hearts of audiences worldwide.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/frozen.jpeg"
+    },
+    {
+      "id": 18,
+      "name": "Peter Pan",
+      "release": "1953",
+      "playtime": "1 h 17 min",
+      "description": "Peter Pan is a beloved Disney animated film released in 1953. It takes viewers on a journey to Neverland, a magical world where children never grow up. The film follows the adventures of Peter Pan, the mischievous boy who can fly, along with his fairy sidekick Tinker Bell and the Darling children. Together, they face off against the notorious Captain Hook and his crew of pirates. Peter Pan is a timeless tale of imagination, adventure, and the power of staying young at heart.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/pterpan.jpg"
+    },
+    {
+      "id": 19,
+      "name": "The Jungle Book",
+      "release": "1967",
+      "playtime": "1 h 18 min",
+      "description": "The Jungle Book is a classic Disney animated film released in 1967. Based on Rudyard Kipling's stories, it tells the adventures of Mowgli, a young boy raised by wolves in the jungle. With the help of his animal friends, including the wise panther Bagheera and the fun-loving bear Baloo, Mowgli learns to navigate the dangers of the jungle and discover his true identity. The Jungle Book is a delightful and heartwarming tale filled with memorable characters and catchy songs.",
+      "poster": "https://raw.githubusercontent.com/erkindil/disney/main/thejunglebook.jpeg"
+    }
+  ]
