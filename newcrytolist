@@ -1,0 +1,398 @@
+[
+{
+    "name": "Bitcoin",
+    "price": 34082.19598716937
+}
+{
+    "name": "Ethereum",
+    "price": 1788.904806049243
+}
+{
+    "name": "Tether USDt",
+    "price": 1.0001481907207455
+}
+{
+    "name": "BNB",
+    "price": 226.66911657657272
+}
+{
+    "name": "XRP",
+    "price": 0.546254165295678
+}
+{
+    "name": "USDC",
+    "price": 1.0000317620771115
+}
+{
+    "name": "Solana",
+    "price": 32.10846121535273
+}
+{
+    "name": "Cardano",
+    "price": 0.2941754390835948
+}
+{
+    "name": "Dogecoin",
+    "price": 0.06926499114579872
+}
+{
+    "name": "TRON",
+    "price": 0.0939425495232531
+}
+{
+    "name": "Toncoin",
+    "price": 2.0724256188716366
+}
+{
+    "name": "Chainlink",
+    "price": 11.534645327755312
+}
+{
+    "name": "Polygon",
+    "price": 0.6224342958006404
+}
+{
+    "name": "Wrapped Bitcoin",
+    "price": 34072.61324748182
+}
+{
+    "name": "Dai",
+    "price": 0.9998378229071112
+}
+{
+    "name": "Polkadot",
+    "price": 4.19230539598549
+}
+{
+    "name": "Litecoin",
+    "price": 67.98517404302096
+}
+{
+    "name": "Bitcoin Cash",
+    "price": 244.25406492384909
+}
+{
+    "name": "Shiba Inu",
+    "price": 7.811038351104255e-06
+}
+{
+    "name": "Avalanche",
+    "price": 10.917403970975577
+}
+{
+    "name": "UNUS SED LEO",
+    "price": 3.9563958012839664
+}
+{
+    "name": "Stellar",
+    "price": 0.1136722152619272
+}
+{
+    "name": "Monero",
+    "price": 162.46246349726147
+}
+{
+    "name": "OKB",
+    "price": 44.89368605823202
+}
+{
+    "name": "Cosmos",
+    "price": 7.195300091193546
+}
+{
+    "name": "Uniswap",
+    "price": 4.100725314562438
+}
+{
+    "name": "Ethereum Classic",
+    "price": 16.27845475128165
+}
+{
+    "name": "BUSD",
+    "price": 1.001224564470039
+}
+{
+    "name": "Hedera",
+    "price": 0.05201686570529791
+}
+{
+    "name": "Filecoin",
+    "price": 3.6591284340347894
+}
+{
+    "name": "Aptos",
+    "price": 6.706222750934325
+}
+{
+    "name": "Lido DAO",
+    "price": 1.837915570439971
+}
+{
+    "name": "Internet Computer",
+    "price": 3.6127654399454103
+}
+{
+    "name": "Cronos",
+    "price": 0.05935031848064756
+}
+{
+    "name": "VeChain",
+    "price": 0.019068088017409352
+}
+{
+    "name": "Maker",
+    "price": 1414.6160992880843
+}
+{
+    "name": "Quant",
+    "price": 107.14362995561432
+}
+{
+    "name": "NEAR Protocol",
+    "price": 1.2471800588721078
+}
+{
+    "name": "Optimism",
+    "price": 1.3779751959867435
+}
+{
+    "name": "Aave",
+    "price": 80.55222573650238
+}
+{
+    "name": "Mantle",
+    "price": 0.3773327605307321
+}
+{
+    "name": "Arbitrum",
+    "price": 0.9182061581702681
+}
+{
+    "name": "Injective",
+    "price": 13.397458645219208
+}
+{
+    "name": "Bitcoin SV",
+    "price": 48.773518685720326
+}
+{
+    "name": "The Graph",
+    "price": 0.10033440346913143
+}
+{
+    "name": "Stacks",
+    "price": 0.6544752727648163
+}
+{
+    "name": "Render",
+    "price": 2.3482153794710907
+}
+{
+    "name": "THORChain",
+    "price": 2.5193096388918956
+}
+{
+    "name": "Algorand",
+    "price": 0.10157655911638462
+}
+{
+    "name": "Immutable",
+    "price": 0.6437331091714696
+}
+{
+    "name": "MultiversX",
+    "price": 29.102119764266586
+}
+{
+    "name": "USDD",
+    "price": 1.000451294198961
+}
+{
+    "name": "EOS",
+    "price": 0.6295240242767456
+}
+{
+    "name": "Tezos",
+    "price": 0.7208461747285526
+}
+{
+    "name": "Axie Infinity",
+    "price": 4.859545475590833
+}
+{
+    "name": "The Sandbox",
+    "price": 0.32888995183367875
+}
+{
+    "name": "XDC Network",
+    "price": 0.04894619917625148
+}
+{
+    "name": "Theta Network",
+    "price": 0.6695057535835484
+}
+{
+    "name": "Decentraland",
+    "price": 0.34858530038558605
+}
+{
+    "name": "Neo",
+    "price": 9.314638985572849
+}
+{
+    "name": "Fantom",
+    "price": 0.2310810468938395
+}
+{
+    "name": "Bitget Token",
+    "price": 0.4626843052087899
+}
+{
+    "name": "Synthetix",
+    "price": 2.2920703160016176
+}
+{
+    "name": "Mina",
+    "price": 0.6226178089004045
+}
+{
+    "name": "Kava",
+    "price": 0.6381273403302088
+}
+{
+    "name": "Flow",
+    "price": 0.5293121226244775
+}
+{
+    "name": "eCash",
+    "price": 2.7653636753707268e-05
+}
+{
+    "name": "Conflux",
+    "price": 0.15881780657979414
+}
+{
+    "name": "ApeCoin",
+    "price": 1.3639206540976203
+}
+{
+    "name": "Pepe",
+    "price": 1.2048685676784375e-06
+}
+{
+    "name": "Chiliz",
+    "price": 0.06545887266062135
+}
+{
+    "name": "Tether Gold",
+    "price": 2004.7325891161934
+}
+{
+    "name": "PAX Gold",
+    "price": 1987.1950679641816
+}
+{
+    "name": "Pax Dollar",
+    "price": 0.99841041143231
+}
+{
+    "name": "Rocket Pool",
+    "price": 23.99373018422608
+}
+{
+    "name": "First Digital USD",
+    "price": 1.0012990660009125
+}
+{
+    "name": "Gala",
+    "price": 0.018237972921341362
+}
+{
+    "name": "IOTA",
+    "price": 0.15419684346037907
+}
+{
+    "name": "Frax Share",
+    "price": 6.056104671221049
+}
+{
+    "name": "Zcash",
+    "price": 27.626528385912412
+}
+{
+    "name": "KuCoin Token",
+    "price": 4.5457482992197304
+}
+{
+    "name": "dYdX",
+    "price": 2.3663798081822347
+}
+{
+    "name": "Trust Wallet Token",
+    "price": 1.0378954926128925
+}
+{
+    "name": "Klaytn",
+    "price": 0.1323343184912149
+}
+{
+    "name": "Curve DAO Token",
+    "price": 0.47569414742851185
+}
+{
+    "name": "GMX",
+    "price": 45.38752181983842
+}
+{
+    "name": "Sui",
+    "price": 0.4611771458573434
+}
+{
+    "name": "BitTorrent(New)",
+    "price": 4.024811720471559e-07
+}
+{
+    "name": "WOO Network",
+    "price": 0.21746888836173583
+}
+{
+    "name": "Huobi Token",
+    "price": 2.3514215149627895
+}
+{
+    "name": "Casper",
+    "price": 0.033126661086045256
+}
+{
+    "name": "Terra Classic",
+    "price": 6.475587642733399e-05
+}
+{
+    "name": "GateToken",
+    "price": 3.830376287560033
+}
+{
+    "name": "Compound",
+    "price": 45.57713005855405
+}
+{
+    "name": "FLOKI",
+    "price": 3.779854205259398e-05
+}
+{
+    "name": "Nexo",
+    "price": 0.6175393357795848
+}
+{
+    "name": "Oasis Network",
+    "price": 0.051488011509229346
+}
+{
+    "name": "APENFT",
+    "price": 3.3185393729494353e-07
+}
+{
+    "name": "Dash",
+    "price": 28.13078969376667
+}
+]
